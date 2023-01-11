@@ -1,0 +1,11 @@
+AAC
+brick
+concrete
+glass
+gypsum
+paper
+plastic
+rubber
+tile
+timber
+woven
