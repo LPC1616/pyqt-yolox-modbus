@@ -10,3 +10,5 @@ h5py==2.10.0
 tensorboard
 scikit-learn
 Cython
+PyQt5
+PyQt5-tools
